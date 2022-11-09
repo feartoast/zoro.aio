@@ -1,9 +1,15 @@
 .box_wrap {
     width: 1400px;
-    max-width: calc(100vw - 40px);
+    max-width: calc(100vw - 60px);
     margin: 0 auto;
   }
   .wide_wrap {
     width: calc(100vw - 40px);
     margin: 0 auto;
   }
+
+  a {
+    color: yellow;
+  }
+   
+   
